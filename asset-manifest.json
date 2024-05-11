@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MailChimp/static/css/main.9bc08933.css",
+    "main.js": "/MailChimp/static/js/main.735370ac.js",
+    "static/js/787.2d9a71c3.chunk.js": "/MailChimp/static/js/787.2d9a71c3.chunk.js",
+    "static/media/Platform1Hd.mp4": "/MailChimp/static/media/Platform1Hd.6413935eb29cd48e58c2.mp4",
+    "static/media/process.gif": "/MailChimp/static/media/process.89d3daccb8323f92998e.gif",
+    "static/media/payment_sucess.gif": "/MailChimp/static/media/payment_sucess.4b04477c4d4848aff75f.gif",
+    "static/media/Email2.gif": "/MailChimp/static/media/Email2.75d691a99e80f5aa9f58.gif",
+    "static/media/AI_animate.gif": "/MailChimp/static/media/AI_animate.951f27107b79e6b51b22.gif",
+    "static/media/Automate_cart.gif": "/MailChimp/static/media/Automate_cart.4aee32644264a8792bfa.gif",
+    "index.html": "/MailChimp/index.html",
+    "main.9bc08933.css.map": "/MailChimp/static/css/main.9bc08933.css.map",
+    "main.735370ac.js.map": "/MailChimp/static/js/main.735370ac.js.map",
+    "787.2d9a71c3.chunk.js.map": "/MailChimp/static/js/787.2d9a71c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bc08933.css",
+    "static/js/main.735370ac.js"
+  ]
+}
